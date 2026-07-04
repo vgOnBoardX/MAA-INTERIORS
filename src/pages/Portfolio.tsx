@@ -101,25 +101,22 @@ export default function Portfolio() {
                 className="relative aspect-[4/3] rounded-xl overflow-hidden shadow-md mb-5 cursor-pointer"
                 onClick={() => handleOpenLightbox(project)}
               >
-                <div className="w-full h-full duotone-container">
-                  <img
-                    src={project.coverImage}
-                    alt={project.title}
-                    className="w-full h-full object-cover duotone-image"
-                    loading="lazy"
-                    referrerPolicy="no-referrer"
-                  />
-                  <div className="duotone-overlay" />
-                </div>
-                
+                <img
+                  src={project.coverImage}
+                  alt={project.title}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  loading="lazy"
+                  referrerPolicy="no-referrer"
+                />
+
                 {/* Category tag */}
                 <span className="absolute top-4 left-4 bg-linen/95 text-espresso text-xs font-medium px-2.5 py-1 rounded shadow-sm">
                   {project.category}
                 </span>
 
-                {/* Overlaid Hover Indicator */}
-                <div className="absolute inset-0 bg-espresso/30 opacity-0 group-hover:opacity-100 flex items-center justify-center transition-opacity pointer-events-none z-10">
-                  <div className="bg-linen text-espresso rounded-full p-3 shadow-lg">
+                {/* Hover Indicator - transparent, no color overlay */}
+                <div className="absolute inset-0 opacity-0 group-hover:opacity-100 flex items-center justify-center transition-opacity pointer-events-none z-10">
+                  <div className="bg-linen/90 text-espresso rounded-full p-3 shadow-lg">
                     <ZoomIn size={20} />
                   </div>
                 </div>
