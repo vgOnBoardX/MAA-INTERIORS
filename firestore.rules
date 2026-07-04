@@ -1,0 +1,69 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 1. Global Safety Net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Helper functions
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // 2. Contacts Collection Rules
+    match /contacts/{contactId} {
+      allow get: if isSignedIn() && isValidId(contactId);
+      allow list: if isSignedIn();
+      allow create: if (
+        incoming().name is string && incoming().name.size() > 0 && incoming().name.size() <= 100 &&
+        incoming().email is string && incoming().email.size() <= 100 &&
+        incoming().phone is string && incoming().phone.size() <= 30 &&
+        incoming().message is string && incoming().message.size() > 0 && incoming().message.size() <= 5000 &&
+        incoming().createdAt is string &&
+        incoming().status == "new"
+      );
+      allow update: if isSignedIn() && isValidId(contactId) && (
+        incoming().diff(existing()).affectedKeys().hasOnly(['status']) &&
+        (incoming().status == "new" || incoming().status == "contacted")
+      );
+      allow delete: if isSignedIn() && isValidId(contactId);
+    }
+
+    // 3. Appointments Collection Rules
+    match /appointments/{appointmentId} {
+      allow get: if isSignedIn() && isValidId(appointmentId);
+      allow list: if isSignedIn();
+      allow create: if (
+        incoming().name is string && incoming().name.size() > 0 && incoming().name.size() <= 100 &&
+        incoming().email is string && incoming().email.size() > 0 && incoming().email.size() <= 100 &&
+        incoming().phone is string && incoming().phone.size() > 0 && incoming().phone.size() <= 30 &&
+        incoming().projectType is string && incoming().projectType.size() <= 50 &&
+        incoming().budgetRange is string && incoming().budgetRange.size() <= 50 &&
+        incoming().preferredDate is string &&
+        incoming().preferredTime is string && incoming().preferredTime.size() <= 30 &&
+        incoming().details is string && incoming().details.size() <= 5000 &&
+        incoming().createdAt is string &&
+        incoming().status == "pending"
+      );
+      allow update: if isSignedIn() && isValidId(appointmentId) && (
+        incoming().diff(existing()).affectedKeys().hasOnly(['status']) &&
+        (incoming().status == "pending" || incoming().status == "confirmed" || incoming().status == "completed")
+      );
+      allow delete: if isSignedIn() && isValidId(appointmentId);
+    }
+  }
+}
+

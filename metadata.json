@@ -1,0 +1,6 @@
+{
+  "name": "Maa Interiors",
+  "description": "A modern, warm, and fast interior design marketing website and client booking portal for Maa Interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

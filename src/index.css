@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", serif;
+  --font-sans: "Karla", sans-serif;
+
+  /* Custom colors matching the brand identity */
+  --color-espresso: #2F1D1D;
+  --color-mist: #C7E7E3;
+  --color-deepmist: #8FBFB8;
+  --color-linen: #FAF6F0;
+  --color-stone: #7B8280;
+}
+
+@layer base {
+  body {
+    @apply bg-linen text-espresso font-sans antialiased selection:bg-mist selection:text-espresso;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif text-espresso tracking-tight;
+  }
+
+  /* Custom focus states */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-espresso ring-offset-2 ring-offset-linen;
+  }
+}
+
+/* Custom Scrollbar for elegant feel */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-linen);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-stone);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-espresso);
+}
+
+/* Before/After slider classes */
+.before-after-slider-container {
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+}
+
+/* Duotone filter logic: Espresso/Mist duotone */
+.duotone-filter {
+  filter: grayscale(100%) contrast(110%);
+  position: relative;
+}
+
+.duotone-filter::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: #2F1D1D;
+  mix-blend-mode: multiply;
+  opacity: 0.5;
+  transition: opacity 0.4s ease;
+}
+
+.duotone-filter::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: #C7E7E3;
+  mix-blend-mode: screen;
+  opacity: 0.6;
+  transition: opacity 0.4s ease;
+}
+
+/* We can implement duotone filter in CSS cleanly using a combination of color matrices or simpler CSS blend overlay. Let's do a reliable CSS classes for the portfolio photos */
+.duotone-container {
+  position: relative;
+  overflow: hidden;
+  background-color: #2F1D1D; /* Espresso base */
+}
+
+.duotone-image {
+  filter: grayscale(100%) contrast(1.1) brightness(0.9);
+  mix-blend-mode: luminosity;
+  transition: filter 0.4s ease, mix-blend-mode 0.4s ease, transform 0.4s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .duotone-image {
+    filter: none !important;
+    mix-blend-mode: normal !important;
+    transition: none !important;
+  }
+}
+
+.duotone-container:hover .duotone-image,
+.duotone-container:focus-within .duotone-image,
+.duotone-container.active .duotone-image {
+  filter: grayscale(0%) contrast(1) brightness(1);
+  mix-blend-mode: normal;
+}
+
+.duotone-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(47, 29, 29, 0.2), rgba(47, 29, 29, 0.8));
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.4s ease;
+}
+
+.duotone-container:hover .duotone-overlay,
+.duotone-container:focus-within .duotone-overlay,
+.duotone-container.active .duotone-overlay {
+  opacity: 0;
+}
+
