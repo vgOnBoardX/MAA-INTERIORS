@@ -189,9 +189,11 @@ export default function Contact() {
                 </div>
                 <div className="ml-5">
                   <span className="block font-serif text-lg font-semibold text-espresso">Phone & WhatsApp</span>
-                  <a href="tel:+919064110604" className="block font-sans text-stone text-sm mt-1 hover:underline">
-                    +91 90641 10604
-                  </a>
+                  <span className="block font-sans text-stone text-sm mt-1">
+                    <a href="tel:+917980546849" className="hover:underline">+91 79805 46849</a>
+                    {" / "}
+                    <a href="tel:+919903538451" className="hover:underline">+91 99035 38451</a>
+                  </span>
                   <span className="text-xs text-stone/70 mt-1 block">Manual consultation booking & general chats</span>
                 </div>
               </div>

@@ -2,7 +2,7 @@ import { MessageSquare } from "lucide-react";
 
 export default function WhatsAppButton() {
   // Pre-filled WhatsApp message URL
-  const phoneNumber = "919064110604"; // Dynamic prefilled phone number matching contact details
+  const phoneNumber = "917980546849"; // Dynamic prefilled phone number matching contact details
   const message = encodeURIComponent("Hello Maa Interiors, I'm visiting your website and would like to inquire about interior design services!");
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`;
 
