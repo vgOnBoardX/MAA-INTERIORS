@@ -12,6 +12,291 @@ export interface Project {
 
 export const PROJECTS: Project[] = [
   {
+    "id": "luxury-retail-showroom-1",
+    "coverImage": "https://i.ibb.co/8nBhTyLW/COMMERCIAL.jpg",
+    "gallery": [
+      "https://i.ibb.co/8nBhTyLW/COMMERCIAL.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Retail Showroom Interior",
+    "category": "Commercial",
+    "description": "A high-end retail showroom crafted to elevate the customer experience from the moment they walk in. The design merges sophisticated display fixtures with premium lighting and curated finishes, ensuring every product is showcased in its best light while the space itself becomes a brand statement.",
+    "details": [
+      "Custom-designed display shelving in lacquered white and brass-tipped finishes.",
+      "Dramatic ceiling spotlights and LED track lighting for focused product illumination.",
+      "Polished large-format marble-look flooring creating a seamless luxury underfoot.",
+      "Brand-forward signage wall with backlit logo panel and textured stone cladding.",
+      "Dedicated VIP consultation corner with plush seating and a bespoke accent table."
+    ]
+  },
+  {
+    "id": "boutique-cafe-interior-2",
+    "coverImage": "https://i.ibb.co/yc1wQwYX/COMMERCIAL-2.jpg",
+    "gallery": [
+      "https://i.ibb.co/yc1wQwYX/COMMERCIAL-2.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Boutique Café & Bistro Interior",
+    "category": "Commercial",
+    "description": "A warm and character-rich boutique café designed to feel like a destination rather than just a coffee stop. Exposed textures, curated vintage accents, and thoughtful lighting create an atmosphere that invites guests to linger — making every visit a memorable experience.",
+    "details": [
+      "Exposed brick accent wall paired with warm Edison filament pendant lighting.",
+      "Custom timber and steel bar counter with integrated beverage display shelving.",
+      "Mixed seating configurations — booth banquettes, café tables, and lounge chairs.",
+      "Hand-painted mural or patterned tile feature wall as a social-media-worthy focal point.",
+      "Reclaimed wood ceiling beams and open-shelf retail display for curated merchandise."
+    ]
+  },
+  {
+    "id": "premium-salon-spa-3",
+    "coverImage": "https://i.ibb.co/My5C3yPy/COMMERCIAL-3.jpg",
+    "gallery": [
+      "https://i.ibb.co/My5C3yPy/COMMERCIAL-3.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Premium Salon & Spa Interior",
+    "category": "Commercial",
+    "description": "A serene and luxurious salon and spa interior designed to set the tone for relaxation and beauty from the very first moment. Every element — from the soft lighting to the tactile materials — is chosen to create a sense of calm indulgence and professional elegance.",
+    "details": [
+      "Soft neutral palette of cream, blush, and champagne gold for a tranquil ambience.",
+      "Custom backlit vanity mirrors with integrated LED halos for each styling station.",
+      "Fluted glass partitions dividing treatment rooms while maintaining spatial openness.",
+      "Plush reception sofa with a sleek white marble reception desk and backlit branding.",
+      "Herringbone wood-look flooring and cascading indoor greenery for organic warmth."
+    ]
+  },
+  {
+    "id": "modern-clinic-interior-4",
+    "coverImage": "https://i.ibb.co/hRdF9kvR/COMMERCIAL-4.jpg",
+    "gallery": [
+      "https://i.ibb.co/hRdF9kvR/COMMERCIAL-4.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Medical Clinic & Wellness Centre",
+    "category": "Commercial",
+    "description": "A contemporary medical clinic designed to ease patient anxiety through thoughtful, human-centred design. Clean lines, soothing tones, and hygienic materials are balanced with warm wood accents and natural light to create a professional yet welcoming healthcare environment.",
+    "details": [
+      "Clinical-grade anti-microbial surfaces in easy-clean matte laminates and vinyl flooring.",
+      "Warm wood reception desk contrasting with crisp white walls for a calming welcome.",
+      "Zoned waiting area with ergonomic seating and soft diffused overhead lighting.",
+      "Privacy-optimised consultation rooms with frosted glass sliding doors.",
+      "Wayfinding signage system with colour-coded zones for intuitive patient navigation."
+    ]
+  },
+  {
+    "id": "upscale-restaurant-interior-5",
+    "coverImage": "https://i.ibb.co/S4mj2x0G/COMMERCIAL-5.jpg",
+    "gallery": [
+      "https://i.ibb.co/S4mj2x0G/COMMERCIAL-5.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Upscale Restaurant & Dining Interior",
+    "category": "Commercial",
+    "description": "A sophisticated fine-dining restaurant interior where every detail contributes to an unforgettable culinary journey. Layered lighting, rich materials, and a curated spatial flow create an atmosphere of warmth and exclusivity — the perfect backdrop for exceptional food and memorable evenings.",
+    "details": [
+      "Dramatic statement ceiling with decorative moldings, pendant clusters, and cove uplighting.",
+      "Rich velvet booth seating in deep jewel tones, complemented by marble-topped tables.",
+      "Custom-designed back bar with tiered bottle display and ambient under-shelf lighting.",
+      "Acoustic paneling in fabric-wrapped frames to maintain intimate conversation levels.",
+      "Private dining alcoves with curtain dividers and personalised lighting controls."
+    ]
+  },
+  {
+    "id": "corporate-lobby-interior-6",
+    "coverImage": "https://i.ibb.co/hRXrpzG0/COMMERCIAL-6.jpg",
+    "gallery": [
+      "https://i.ibb.co/hRXrpzG0/COMMERCIAL-6.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Corporate Headquarters Lobby & Entrance",
+    "category": "Commercial",
+    "description": "A grand corporate lobby designed to make an immediate and lasting impression. The space balances architectural boldness with refined finishes — a double-height atrium, sculptural reception desk, and statement lighting ensemble communicate corporate prestige from the very first step inside.",
+    "details": [
+      "Double-height feature wall clad in large-format stone panels with an illuminated company logo.",
+      "Sculptural reception counter in corian and brushed stainless steel with embedded LED base.",
+      "Statement chandelier or geometric light installation as the lobby's visual centrepiece.",
+      "Premium porcelain tile flooring in large slabs with seamless grout lines for a clean finish.",
+      "Integrated digital display screens for announcements, wayfinding, and brand storytelling."
+    ]
+  },
+  {
+    "id": "modern-executive-office-1",
+    "coverImage": "https://i.ibb.co/KpCZPVFN/OFFICE.jpg",
+    "gallery": [
+      "https://i.ibb.co/KpCZPVFN/OFFICE.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Executive Office Suite",
+    "category": "Office",
+    "description": "A sleek, high-performance executive office designed to inspire productivity and convey authority. The space features a commanding workstation, premium upholstered seating, and a sophisticated palette of dark tones balanced by warm accent lighting — creating an environment where business decisions feel effortless.",
+    "details": [
+      "Custom-built executive desk with integrated cable management and built-in storage pedestals.",
+      "Floor-to-ceiling dark laminate storage wall with display niches and lockable cabinets.",
+      "Warm recessed ceiling lighting complemented by task-specific under-shelf LED strips.",
+      "Premium leather executive chair paired with coordinating visitor seating.",
+      "Acoustic wall panels and double-glazed glass partitions for sound-proofed privacy."
+    ]
+  },
+  {
+    "id": "collaborative-workspace-office-2",
+    "coverImage": "https://i.ibb.co/mVg9Ckfv/OFFICE-2.jpg",
+    "gallery": [
+      "https://i.ibb.co/mVg9Ckfv/OFFICE-2.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Collaborative Open-Plan Workspace",
+    "category": "Office",
+    "description": "A dynamic open-plan office designed to foster collaboration and team energy. Bright, airy interiors are paired with modular workstations and breakout zones that adapt to different working styles — from focused individual tasks to spontaneous team brainstorming sessions.",
+    "details": [
+      "Modular workstation clusters with height-adjustable desks for ergonomic flexibility.",
+      "Vibrant accent walls and branded graphic elements reinforcing company identity.",
+      "Open cable trays and flush floor boxes ensuring a clean, clutter-free workspace.",
+      "Dedicated breakout zone with informal lounge seating and writable whiteboard walls.",
+      "Ample natural light supplemented by tunable LED overhead panels for wellbeing."
+    ]
+  },
+  {
+    "id": "boutique-cabin-office-3",
+    "coverImage": "https://i.ibb.co/DPf1CJp8/OFFICE-3.jpg",
+    "gallery": [
+      "https://i.ibb.co/DPf1CJp8/OFFICE-3.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Boutique Private Cabin Office",
+    "category": "Office",
+    "description": "An intimate and refined private cabin office that blends professional function with boutique-hotel elegance. Rich wood-paneled walls, tailored joinery, and curated lighting create a space that is deeply personal yet unmistakably impressive — ideal for senior leadership or client-facing meetings.",
+    "details": [
+      "Rich wood veneer wall paneling with integrated shelving and display niches.",
+      "Bespoke built-in desk unit with matching side credenza for ample surface area.",
+      "Soft overhead cove lighting combined with directional task spotlights.",
+      "Frosted glass partition walls allowing visual privacy while maintaining openness.",
+      "Coordinated color scheme in muted neutrals with deep wood and brass accents."
+    ]
+  },
+  {
+    "id": "contemporary-reception-office-4",
+    "coverImage": "https://i.ibb.co/k2KPFFCD/OFFICE-4.jpg",
+    "gallery": [
+      "https://i.ibb.co/k2KPFFCD/OFFICE-4.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary Office Reception & Lobby",
+    "category": "Office",
+    "description": "A bold and welcoming office reception area that makes a powerful first impression. The design combines a sculptural reception desk, brand-forward signage, and layered lighting to communicate professionalism and warmth from the moment visitors step through the door.",
+    "details": [
+      "Signature reception counter in high-gloss white with backlit brand logo panel.",
+      "Feature ceiling with geometric coffers and warm pendant lighting for visual impact.",
+      "Comfortable lounge waiting area with premium upholstered seating and a glass coffee table.",
+      "Seamless large-format porcelain flooring extending from lobby to corridor for continuity.",
+      "Curated indoor planting and artwork to add life, colour, and brand personality."
+    ]
+  },
+  {
+    "id": "sleek-modular-kitchen-design-1",
+    "coverImage": "https://i.ibb.co/SwRgXDcN/KITCHEN.jpg",
+    "gallery": [
+      "https://i.ibb.co/SwRgXDcN/KITCHEN.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Sleek Contemporary Modular Kitchen",
+    "category": "Kitchen",
+    "description": "A beautifully crafted contemporary modular kitchen featuring clean lines, premium finishes, and a smart layout designed for both functionality and visual elegance. The space seamlessly blends practicality with modern aesthetics, creating a culinary environment that is as stylish as it is efficient.",
+    "details": [
+      "Streamlined modular cabinetry with premium high-gloss laminate finishes.",
+      "Efficient U-shaped or L-shaped layout for optimized kitchen workflow.",
+      "Integrated chimney hood and built-in appliances for a seamless look.",
+      "Stone-finish countertops and matching tiled backsplash for easy maintenance.",
+      "Concealed under-cabinet LED strip lighting for a warm ambient glow."
+    ]
+  },
+  {
+    "id": "luxury-acrylic-kitchen-design-2",
+    "coverImage": "https://i.ibb.co/hJvzJj5x/KITCHEN-2.jpg",
+    "gallery": [
+      "https://i.ibb.co/hJvzJj5x/KITCHEN-2.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Acrylic Finish Modular Kitchen",
+    "category": "Kitchen",
+    "description": "This luxury modular kitchen showcases high-gloss acrylic shutters paired with sleek countertops and sophisticated hardware. The design prioritizes both visual impact and day-to-day ergonomic ease, resulting in a kitchen that feels like the heart of a premium home.",
+    "details": [
+      "High-gloss acrylic shutter doors offering a mirror-like reflective premium finish.",
+      "Thoughtfully planned storage with soft-close drawers and deep pull-out cabinets.",
+      "Elegant metallic profile handles adding a refined touch to every cabinet.",
+      "Engineered stone countertops resistant to stains, heat, and scratches.",
+      "Wall-mounted chimney hood with powerful suction and sleek stainless finish."
+    ]
+  },
+  {
+    "id": "warm-tone-kitchen-design-3",
+    "coverImage": "https://i.ibb.co/3yN3VGt9/KITCHEN-3.jpg",
+    "gallery": [
+      "https://i.ibb.co/3yN3VGt9/KITCHEN-3.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Warm-Tone Wood & Matte Kitchen Suite",
+    "category": "Kitchen",
+    "description": "A warm and inviting modular kitchen blending rich wood-grain laminates with soft matte tones to create a harmonious, nature-inspired cooking space. The design offers a timeless aesthetic with modern functional elements, perfect for families who value both comfort and style.",
+    "details": [
+      "Rich woodgrain laminate overhead cabinets contrasted with matte base units.",
+      "Built-in modular shelving for easy access to everyday kitchen essentials.",
+      "Ceramic or porcelain tile backsplash with subtle geometric pattern detailing.",
+      "Warm under-cabinet lighting casting a cozy amber tone across the countertop.",
+      "Integrated gas hob and stainless steel sink with a single-lever mixer tap."
+    ]
+  },
+  {
+    "id": "dual-tone-open-kitchen-design-4",
+    "coverImage": "https://i.ibb.co/MkMjZ8sX/KITCHEN-4.jpg",
+    "gallery": [
+      "https://i.ibb.co/MkMjZ8sX/KITCHEN-4.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Dual-Tone Open Concept Kitchen",
+    "category": "Kitchen",
+    "description": "This dual-tone open-concept kitchen is designed to be a visual showpiece as well as a highly functional cooking space. The striking contrast between upper and lower cabinets anchors the entire room, while thoughtful storage solutions and premium countertops make everyday cooking a pleasure.",
+    "details": [
+      "Striking dual-tone cabinetry with contrasting upper and lower cabinet finishes.",
+      "Open-plan layout that integrates seamlessly with the adjacent dining or living area.",
+      "Quartz or granite countertops with subtle veining for a luxurious countertop surface.",
+      "Full-height overhead cabinets maximizing vertical storage in a compact footprint.",
+      "Contemporary hardware with long bar handles in brushed gold or chrome finishes."
+    ]
+  },
+  {
+    "id": "compact-elegant-kitchen-design-5",
+    "coverImage": "https://i.ibb.co/J6FsfLP/KITCHENS.jpg",
+    "gallery": [
+      "https://i.ibb.co/J6FsfLP/KITCHENS.jpg"
+    ],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Compact Elegant Modular Kitchen",
+    "category": "Kitchen",
+    "description": "A compact yet strikingly elegant modular kitchen design that proves great interiors don't need large footprints. Every inch of this kitchen is purposefully designed — from the optimized cabinet configuration to the carefully chosen color palette — delivering a space that is both beautiful and highly practical.",
+    "details": [
+      "Space-maximizing compact layout with tall pantry units for deep storage.",
+      "Neutral or bold color palette tailored to complement the client's home theme.",
+      "Sleek profile-handled shutters giving a handleless, minimal aesthetic.",
+      "Anti-bacterial, easy-to-clean countertop surfaces for hygienic food preparation.",
+      "Integrated modular accessories including pull-out bins, spice racks, and cutlery trays."
+    ]
+  },
+  {
     "id": "royal-emerald-acrylic-kitchen",
     "coverImage": "https://i.ibb.co/QvtKWYD4/IMG-20260703-WA0041.jpg",
     "gallery": [

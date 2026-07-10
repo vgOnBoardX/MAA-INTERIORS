@@ -12,7 +12,7 @@ export default function Portfolio() {
   const [activeGalleryIndex, setActiveGalleryIndex] = useState(0);
 
   // Categories list derived from project data
-  const categories = ["All", "Living Room", "Bedroom", "Kitchen", "Full Home", "Office", "Commercial"];
+  const categories = ["All", "Living Room", "Bedroom", "Kitchen", "Office", "Commercial"];
 
   // Check URL query parameter on mount/change to open corresponding project lightbox automatically
   useEffect(() => {

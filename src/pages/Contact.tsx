@@ -36,7 +36,7 @@ export default function Contact() {
       setEmailStatus("pending");
       
       const templateParams = {
-        to_email: "maapvtofficial@gmail.com",
+        to_email: "sabyasachi983@gmail.com",
         request_type: params.type,
         from_name: params.name,
         from_email: params.email,
@@ -204,8 +204,8 @@ export default function Contact() {
                 </div>
                 <div className="ml-5">
                   <span className="block font-serif text-lg font-semibold text-espresso">Email Address</span>
-                  <a href="mailto:maapvtofficial@gmail.com" className="block font-sans text-stone text-sm mt-1 hover:underline">
-                    maapvtofficial@gmail.com
+                  <a href="mailto:sabyasachi983@gmail.com" className="block font-sans text-stone text-sm mt-1 hover:underline">
+                    sabyasachi983@gmail.com
                   </a>
                   <span className="text-xs text-stone/70 mt-1 block">Inquire for collaborations and business proposals</span>
                 </div>
@@ -254,7 +254,7 @@ export default function Contact() {
                     <div className="bg-emerald-50 border border-emerald-200 text-emerald-800 rounded-lg p-4 text-xs font-sans text-left">
                       <p className="font-semibold mb-1">✅ Notification Dispatched Successfully</p>
                       <p className="text-emerald-700/90 leading-relaxed">
-                        The form data was successfully emailed to <strong>maapvtofficial@gmail.com</strong> using EmailJS.
+                        The form data was successfully emailed to <strong>sabyasachi983@gmail.com</strong> using EmailJS.
                       </p>
                     </div>
                   )}
@@ -263,7 +263,7 @@ export default function Contact() {
                     <div className="bg-amber-50 border border-amber-200 text-amber-800 rounded-lg p-4 text-xs font-sans text-left animate-pulse">
                       <p className="font-semibold mb-1">⏳ Sending Notification...</p>
                       <p className="text-amber-700/90 leading-relaxed">
-                        Dispatching email alert to <strong>maapvtofficial@gmail.com</strong> via EmailJS...
+                        Dispatching email alert to <strong>sabyasachi983@gmail.com</strong> via EmailJS...
                       </p>
                     </div>
                   )}
@@ -281,7 +281,7 @@ export default function Contact() {
                     <div className="bg-stone-50 border border-stone-200 text-stone-800 rounded-lg p-4 text-xs font-sans text-left">
                       <p className="font-bold text-stone-950 mb-1">⚙️ EmailJS Credentials Needed</p>
                       <p className="text-stone-700 leading-relaxed mb-2">
-                        Your request was successfully saved in the database! However, to receive instant email notifications to <strong>maapvtofficial@gmail.com</strong>, please set up your free EmailJS account and add these environment variables to the <strong>Settings &gt; Secrets</strong> menu:
+                        Your request was successfully saved in the database! However, to receive instant email notifications to <strong>sabyasachi983@gmail.com</strong>, please set up your free EmailJS account and add these environment variables to the <strong>Settings &gt; Secrets</strong> menu:
                       </p>
                       <ul className="list-disc pl-4 space-y-1 font-mono text-[11px] text-stone-800">
                         <li>VITE_EMAILJS_SERVICE_ID</li>
