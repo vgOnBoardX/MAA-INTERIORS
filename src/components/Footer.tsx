@@ -36,7 +36,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center text-linen/75 hover:text-mist transition-colors">
                 <Mail size={18} className="mr-3 flex-shrink-0" />
-                <a href="mailto:sabyasachi983@gmail.com" className="hover:underline">sabyasachi983@gmail.com</a>
+                <a href="mailto:maapvtofficial@gmail.com" className="hover:underline">maapvtofficial@gmail.com</a>
               </div>
             </div>
           </div>
