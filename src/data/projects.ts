@@ -527,6 +527,193 @@ export const PROJECTS: Project[] = [
     ]
   },
   {
+    "id": "bedroom-design-1",
+    "coverImage": "https://i.ibb.co/N2RBCLfJ/contemporary-bedroom-design-with-a-king-size-bed-and-hanging-lights-img.jpg",
+    "gallery": ["https://i.ibb.co/N2RBCLfJ/contemporary-bedroom-design-with-a-king-size-bed-and-hanging-lights-img.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary King Bedroom with Pendant Lighting",
+    "category": "Bedroom",
+    "description": "A contemporary master bedroom featuring a grand king-size platform bed, dramatic hanging pendant lights, and a calming neutral palette. The space is designed to evoke a five-star hotel retreat with layered textures, warm ambient lighting, and refined furnishings.",
+    "details": [
+      "Grand king-size platform bed with an upholstered headboard as the room's centrepiece.",
+      "Dramatic pendant lights flanking the bed for a boutique hotel ambience.",
+      "Neutral warm palette of cream, beige, and taupe for a serene, restful atmosphere.",
+      "Layered soft furnishings including plush bedding, accent cushions, and a throw blanket.",
+      "Recessed ceiling with warm cove lighting to frame the sleeping zone."
+    ]
+  },
+  {
+    "id": "bedroom-design-2",
+    "coverImage": "https://i.ibb.co/xqZRpRb9/images-1.jpg",
+    "gallery": ["https://i.ibb.co/xqZRpRb9/images-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Minimalist Modern Bedroom Suite",
+    "category": "Bedroom",
+    "description": "A sleek minimalist bedroom suite that celebrates the beauty of restraint. Clean architectural lines, a curated colour palette, and thoughtfully chosen furniture pieces come together to create a space of calm sophistication and visual harmony.",
+    "details": [
+      "Low-profile platform bed with a streamlined upholstered headboard.",
+      "Integrated floating nightstands with hidden storage and ambient lighting.",
+      "Floor-to-ceiling wardrobe in matte finish for seamless, clutter-free storage.",
+      "Accent feature wall with subtle textured panels and warm LED backlighting.",
+      "Polished flooring with a soft area rug defining the sleeping zone."
+    ]
+  },
+  {
+    "id": "bedroom-design-3",
+    "coverImage": "https://i.ibb.co/xtpZx6FD/images-2.jpg",
+    "gallery": ["https://i.ibb.co/xtpZx6FD/images-2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Warm Woodgrain Luxury Bedroom",
+    "category": "Bedroom",
+    "description": "A luxurious bedroom enveloped in warm woodgrain textures and earthy tones. Rich natural materials are paired with soft ambient lighting and bespoke furniture to craft a space that feels both grounded and deeply indulgent.",
+    "details": [
+      "Rich woodgrain laminate paneling on the feature headboard wall for warmth and depth.",
+      "Bespoke wooden bed frame with integrated side tables and ambient strip lighting.",
+      "Complementing wardrobes in matching wood-tone laminates with soft-close mechanisms.",
+      "Layered lighting plan including overhead cove lights, pendant lamps, and reading lights.",
+      "Natural fibre rug and plush upholstered bench at the foot of the bed."
+    ]
+  },
+  {
+    "id": "bedroom-design-4",
+    "coverImage": "https://i.ibb.co/Vdn6tt3/images-3.jpg",
+    "gallery": ["https://i.ibb.co/Vdn6tt3/images-3.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Dark Moody Master Bedroom Retreat",
+    "category": "Bedroom",
+    "description": "A bold and dramatic master bedroom designed around a deep, moody colour palette. Dark walls, rich textures, and strategic lighting combine to create an intimate sanctuary that feels both cocooning and luxuriously sophisticated.",
+    "details": [
+      "Deep-toned feature wall in matte charcoal or navy as the dramatic focal point.",
+      "King-size bed with a velvet-upholstered headboard in a complementary dark hue.",
+      "Warm brass or gold hardware accents providing a refined contrast to the dark palette.",
+      "Statement bedside pendants with warm Edison-style bulbs for intimate ambiance.",
+      "Plush area rug and layered textiles adding softness to the bold design."
+    ]
+  },
+  {
+    "id": "bedroom-design-5",
+    "coverImage": "https://i.ibb.co/qMNp3n1M/images.jpg",
+    "gallery": ["https://i.ibb.co/qMNp3n1M/images.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Elegant White & Gold Bedroom",
+    "category": "Bedroom",
+    "description": "An elegantly styled bedroom blending crisp white finishes with gleaming gold accents for a look of timeless glamour. The space balances opulence with restraint, creating an environment that feels fresh, airy, and effortlessly luxurious.",
+    "details": [
+      "Pristine white upholstered headboard with diamond tufting as the room's signature piece.",
+      "Gold-finish bedside lamps and hardware adding warmth and a touch of glamour.",
+      "High-gloss white wardrobes with integrated gold-profile handles for a seamless look.",
+      "Mirrored accent panels reflecting light and adding a sense of spaciousness.",
+      "Soft champagne and ivory toned bedding with layered cushions for a plush finish."
+    ]
+  },
+  {
+    "id": "bedroom-design-6",
+    "coverImage": "https://i.ibb.co/svZM7dwr/originalfile1769103013361-4465.jpg",
+    "gallery": ["https://i.ibb.co/svZM7dwr/originalfile1769103013361-4465.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Scandinavian Inspired Serene Bedroom",
+    "category": "Bedroom",
+    "description": "A Scandinavian-inspired bedroom that embraces hygge — the art of cosy comfort. Light wood tones, soft whites, and a clutter-free layout create a calming retreat where simplicity and warmth take centre stage.",
+    "details": [
+      "Light oak bed frame and bedside tables in clean Scandinavian silhouettes.",
+      "Crisp white walls paired with natural linen textiles for an airy, relaxed feel.",
+      "Minimalist built-in shelving displaying curated accessories and indoor plants.",
+      "Soft pendant light in a natural woven rattan shade as the room's focal point.",
+      "Sheepskin throws, knit cushions, and layered bedding for ultimate comfort."
+    ]
+  },
+  {
+    "id": "bedroom-design-7",
+    "coverImage": "https://i.ibb.co/C57H1Lrf/VC-Interiors-Modern-Bedroom-Interior-Design.jpg",
+    "gallery": ["https://i.ibb.co/C57H1Lrf/VC-Interiors-Modern-Bedroom-Interior-Design.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Interior Design Master Bedroom",
+    "category": "Bedroom",
+    "description": "A refined modern master bedroom where clean geometry, premium materials, and layered lighting converge to produce a space of quiet luxury. Every detail is intentional, from the furniture proportions to the carefully selected colour palette.",
+    "details": [
+      "Architectural headboard wall with integrated panels, niches, and ambient LED lighting.",
+      "Custom-built floating nightstands with concealed LED under-lighting.",
+      "Bespoke full-height wardrobe with push-to-open mechanism for a handleless aesthetic.",
+      "Statement ceiling detail with coffers or cove lighting framing the bed below.",
+      "Premium flooring in large-format stone-look tiles or engineered hardwood."
+    ]
+  },
+  {
+    "id": "bedroom-design-8",
+    "coverImage": "https://i.ibb.co/rG8trNrf/546bf7adec73e07760104cb7b526c291.jpg",
+    "gallery": ["https://i.ibb.co/rG8trNrf/546bf7adec73e07760104cb7b526c291.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Hotel-Style Bedroom Design",
+    "category": "Bedroom",
+    "description": "A bedroom conceived with the luxury of a five-star hotel in mind. Impeccable detailing, sumptuous fabrics, and a carefully composed spatial arrangement deliver an experience of elevated comfort and timeless elegance every night.",
+    "details": [
+      "Towering padded headboard spanning the full width of the bed wall for maximum impact.",
+      "Premium bedding in high thread-count linens with layered pillows and a bolster.",
+      "Symmetrical layout with matching bedside tables, lamps, and wall sconces.",
+      "Integrated dressing area with a vanity mirror, stool, and built-in illuminated cabinet.",
+      "Plush underfoot carpeting or a large area rug centred under the bed."
+    ]
+  },
+  {
+    "id": "bedroom-design-9",
+    "coverImage": "https://i.ibb.co/zWvkPPp8/813315f347b718062c1386a9d23d51b2.jpg",
+    "gallery": ["https://i.ibb.co/zWvkPPp8/813315f347b718062c1386a9d23d51b2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Boho Chic Eclectic Bedroom",
+    "category": "Bedroom",
+    "description": "A free-spirited boho chic bedroom that celebrates texture, pattern, and personality. Layered rugs, macramé wall art, rattan accents, and an eclectic mix of warm tones create a space that feels uniquely curated and effortlessly inviting.",
+    "details": [
+      "Woven rattan or cane bed headboard for a natural, bohemian centrepiece.",
+      "Layered patterned rugs in warm terracotta, rust, and amber tones.",
+      "Macramé or tapestry wall hanging adding artisanal texture to the feature wall.",
+      "Abundant trailing indoor plants and dried floral arrangements for organic warmth.",
+      "Mix-and-match bedside elements with vintage finds and handcrafted accessories."
+    ]
+  },
+  {
+    "id": "bedroom-design-10",
+    "coverImage": "https://i.ibb.co/Zv3y2bh/bedroom-1.png",
+    "gallery": ["https://i.ibb.co/Zv3y2bh/bedroom-1.png"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Tufted Headboard Bedroom with Accent Wall",
+    "category": "Bedroom",
+    "description": "A classic-contemporary bedroom built around a statement tufted headboard and a boldly designed accent wall. The design fuses traditional elegance with modern sensibility, resulting in a space that is both timeless and on-trend.",
+    "details": [
+      "Deep-button tufted headboard in plush velvet as the room's defining luxury feature.",
+      "Accent wall in a contrasting colour or textured wallpaper framing the bed.",
+      "Coordinated bedside tables and wall-mounted reading lamps for symmetry.",
+      "Upholstered bench or ottoman at the foot of the bed for added functionality.",
+      "Warm lighting from a central chandelier or cluster of pendant lights above."
+    ]
+  },
+  {
+    "id": "bedroom-design-11",
+    "coverImage": "https://i.ibb.co/xt2P4dYZ/bedroom-interior-decor-design-ideas-scaled.jpg",
+    "gallery": ["https://i.ibb.co/xt2P4dYZ/bedroom-interior-decor-design-ideas-scaled.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Premium Bedroom Interior Decor Showcase",
+    "category": "Bedroom",
+    "description": "A showcase of premium bedroom interior decor ideas that blend aesthetics and comfort seamlessly. From the choice of wall treatments to the curated selection of furniture and accessories, every element works in concert to create a bedroom that is both beautiful and deeply liveable.",
+    "details": [
+      "Carefully curated colour story running through walls, textiles, and accessories.",
+      "Custom furniture proportioned to the room for a bespoke, fitted feel.",
+      "Artful layering of textures — smooth lacquer, brushed metal, soft fabric, and natural wood.",
+      "Statement lighting as a design element rather than an afterthought.",
+      "Considered placement of art, mirrors, and decorative objects to add personality."
+    ]
+  },
+  {
     "id": "earthy-living-room-divider",
     "coverImage": "https://i.ibb.co/ymkMYWGh/IMG-20260703-WA0037.jpg",
     "gallery": [
@@ -545,6 +732,703 @@ export const PROJECTS: Project[] = [
       "Floating low-profile TV console drawers with horizontal brushed brass pull handles and a matching wall-mounted display shelf.",
       "Textural contrast established through textured fabric-upholstered wardrobe shutter fronts and fluted wood detailing along the lower baseboards.",
       "Dynamic geometry highlighted by the diagonal gold geometric wallpaper patterns and complementary warm white LED cove lighting."
+    ]
+  },
+  {
+    "id": "kitchen-design-1",
+    "coverImage": "https://i.ibb.co/Fb9RN3KX/contemporary-classic-kitchen-cabinets.jpg",
+    "gallery": ["https://i.ibb.co/Fb9RN3KX/contemporary-classic-kitchen-cabinets.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary Classic Kitchen Cabinets",
+    "category": "Kitchen",
+    "description": "A beautifully crafted contemporary-classic kitchen featuring refined cabinetry that bridges timeless tradition with modern clean lines. Rich finishes, elegant hardware, and a harmonious layout make this kitchen as functional as it is visually impressive.",
+    "details": [
+      "Shaker-style cabinet doors in a premium painted finish for a classic-contemporary look.",
+      "Marble or stone countertops with subtle veining as a statement surface.",
+      "Under-cabinet lighting illuminating the workspace with a warm, inviting glow.",
+      "Integrated appliances keeping the aesthetic clean and uncluttered.",
+      "Classic subway tile backsplash complementing the overall timeless character."
+    ]
+  },
+  {
+    "id": "kitchen-design-2",
+    "coverImage": "https://i.ibb.co/xKqQ5psq/CRkv-VQz7-XZVMv-Rkw-HGd5-DM.jpg",
+    "gallery": ["https://i.ibb.co/xKqQ5psq/CRkv-VQz7-XZVMv-Rkw-HGd5-DM.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Open Plan Modern Kitchen Design",
+    "category": "Kitchen",
+    "description": "A spacious open-plan kitchen designed for both grand entertaining and everyday family life. The layout maximizes flow and function, while premium finishes and a cohesive material palette create a space that is effortlessly stylish and welcoming.",
+    "details": [
+      "Open-plan layout integrating the kitchen seamlessly with the living and dining areas.",
+      "Large kitchen island with a waterfall countertop as both a workspace and social hub.",
+      "Full-height cabinetry maximizing storage from floor to ceiling.",
+      "Statement pendant lighting cluster above the island for ambiance and task lighting.",
+      "High-quality fixtures and fittings including a designer tap and undermount sink."
+    ]
+  },
+  {
+    "id": "kitchen-design-3",
+    "coverImage": "https://i.ibb.co/zCB5RkZ/home-interior-design-ideas.jpg",
+    "gallery": ["https://i.ibb.co/zCB5RkZ/home-interior-design-ideas.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Elegant Home Kitchen Interior",
+    "category": "Kitchen",
+    "description": "An elegantly designed home kitchen that merges practical daily use with an aspirational aesthetic. Thoughtful planning ensures every zone — prep, cooking, and storage — is optimised, while the refined finishes ensure the space always looks impeccable.",
+    "details": [
+      "Dual-tone cabinetry with contrasting upper and lower finishes for visual depth.",
+      "Quartz countertops in a neutral tone offering durability and understated elegance.",
+      "Bespoke tile backsplash with a geometric or handmade pattern as a design accent.",
+      "Ergonomic pull-out storage and soft-close drawers for a premium user experience.",
+      "Task and ambient lighting working in concert for a well-lit, functional kitchen."
+    ]
+  },
+  {
+    "id": "kitchen-design-4",
+    "coverImage": "https://i.ibb.co/6RRWv1j3/image2.jpg",
+    "gallery": ["https://i.ibb.co/6RRWv1j3/image2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Sleek White Handleless Kitchen",
+    "category": "Kitchen",
+    "description": "A crisp, sleek handleless kitchen in pristine white that embodies minimalist perfection. The clean facade, seamless integrated appliances, and carefully chosen countertop material create a kitchen that is a joy to cook in and a delight to look at.",
+    "details": [
+      "Handleless cabinetry with Gola or J-pull profiles for a completely seamless look.",
+      "High-gloss or matte white laminates giving the kitchen a bright, airy character.",
+      "Thin-profile worktop in a contrasting dark or natural stone for visual balance.",
+      "Integrated fridge, dishwasher, and oven concealed behind matching cabinet panels.",
+      "Recessed ceiling lighting and under-cabinet LEDs ensuring even, shadow-free illumination."
+    ]
+  },
+  {
+    "id": "kitchen-design-5",
+    "coverImage": "https://i.ibb.co/yFphN7bM/images-1.jpg",
+    "gallery": ["https://i.ibb.co/yFphN7bM/images-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Bold Colour Kitchen with Statement Cabinetry",
+    "category": "Kitchen",
+    "description": "A bold and characterful kitchen that uses a striking colour palette to make a confident design statement. Far from conventional, this kitchen celebrates personality and creativity while maintaining a high level of practical functionality and quality.",
+    "details": [
+      "Bold cabinet colour — from deep navy to forest green or terracotta — as the design hero.",
+      "Contrasting worktop in butcher block, marble, or light quartz balancing the bold hue.",
+      "Open shelving sections displaying curated crockery, plants, and kitchen accessories.",
+      "Statement brass or matte black tapware and hardware for a cohesive finishing touch.",
+      "Large-format floor tiles in a complementary neutral tone grounding the bold palette."
+    ]
+  },
+  {
+    "id": "kitchen-design-6",
+    "coverImage": "https://i.ibb.co/QF4BZWfQ/images-2.jpg",
+    "gallery": ["https://i.ibb.co/QF4BZWfQ/images-2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Acrylic Modular Kitchen",
+    "category": "Kitchen",
+    "description": "A high-impact luxury kitchen featuring premium high-gloss acrylic shutters that deliver a mirror-like brilliance. The design is a masterclass in modern luxury — every surface is chosen for its visual quality and its ability to withstand the rigours of daily cooking.",
+    "details": [
+      "High-gloss acrylic cabinet doors with a flawless reflective surface finish.",
+      "Engineered stone countertops resistant to heat, stains, and everyday wear.",
+      "Built-in tall larder units providing maximum pantry storage in a slim footprint.",
+      "Integrated LED strip lighting beneath wall units casting a premium ambient glow.",
+      "Stainless steel or tempered glass splashback complementing the high-shine aesthetic."
+    ]
+  },
+  {
+    "id": "kitchen-design-7",
+    "coverImage": "https://i.ibb.co/FkmbLC4J/images.jpg",
+    "gallery": ["https://i.ibb.co/FkmbLC4J/images.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Natural Wood & Stone Kitchen",
+    "category": "Kitchen",
+    "description": "A warm and organic kitchen design that celebrates the natural beauty of wood and stone. Combining raw textures with considered detailing, this kitchen achieves a grounded, timeless aesthetic that feels connected to nature without sacrificing modern comfort.",
+    "details": [
+      "Solid wood or wood-grain laminate cabinetry bringing natural warmth to the space.",
+      "Live-edge or book-matched stone countertop as the room's artisanal centrepiece.",
+      "Exposed stone or brick feature wall framing the cooking range or hob.",
+      "Integrated herb garden shelf or indoor plant display adding life and freshness.",
+      "Warm-toned vintage or industrial-inspired light fixtures completing the natural aesthetic."
+    ]
+  },
+  {
+    "id": "kitchen-design-8",
+    "coverImage": "https://i.ibb.co/mCzF7SFW/interior-design-Chris-Veith-Stonington-Sept-6th-2019-3.jpg",
+    "gallery": ["https://i.ibb.co/mCzF7SFW/interior-design-Chris-Veith-Stonington-Sept-6th-2019-3.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Refined Transitional Kitchen Design",
+    "category": "Kitchen",
+    "description": "A beautifully balanced transitional kitchen that sits at the intersection of traditional warmth and modern clarity. The design draws equally from classic craftsmanship and contemporary aesthetics, resulting in a kitchen that feels both enduring and fresh.",
+    "details": [
+      "Inset or partial-overlay cabinet doors with refined moulding detail for classic character.",
+      "Island unit with a contrasting finish and seating overhang for casual dining.",
+      "Farmhouse or apron-front sink as a nod to traditional kitchen design values.",
+      "Mixed metal finishes — brushed nickel, unlacquered brass — for layered sophistication.",
+      "Integrated wine fridge or coffee station catering to modern lifestyle needs."
+    ]
+  },
+  {
+    "id": "kitchen-design-9",
+    "coverImage": "https://i.ibb.co/v4NVkbsT/beautiful-kitchen-interior-with-new-stylish-furniture-generative-ai-photo.jpg",
+    "gallery": ["https://i.ibb.co/v4NVkbsT/beautiful-kitchen-interior-with-new-stylish-furniture-generative-ai-photo.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Stylish Contemporary Kitchen with New Furniture",
+    "category": "Kitchen",
+    "description": "A stunning contemporary kitchen fitted with brand-new stylish furniture and fixtures, showcasing the transformative impact of thoughtful interior design. Every element from the cabinetry to the countertops has been selected to create a beautiful and highly functional culinary space.",
+    "details": [
+      "New contemporary modular furniture in a premium finish creating a fresh, crisp aesthetic.",
+      "Statement kitchen island serving as the focal point and primary prep area.",
+      "Designer pendant lights hanging above the island for both function and visual impact.",
+      "Premium appliances seamlessly integrated into the cabinetry for a unified look.",
+      "Coordinated colour scheme tying together the flooring, walls, and kitchen furniture."
+    ]
+  },
+  {
+    "id": "office-design-1",
+    "coverImage": "https://i.ibb.co/Zpwz63PH/images-5.jpg",
+    "gallery": ["https://i.ibb.co/Zpwz63PH/images-5.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Open-Plan Office Workspace",
+    "category": "Office",
+    "description": "A bright and energising open-plan office workspace designed to maximise collaboration and productivity. The layout pairs ergonomic workstations with breakout zones, while the refined material palette and strategic lighting create a professional environment that teams genuinely want to work in.",
+    "details": [
+      "Open-plan modular workstation layout with adjustable-height desks for ergonomic flexibility.",
+      "Vibrant accent walls and subtle brand colour integration to reinforce company identity.",
+      "Dedicated quiet zones and informal breakout seating areas for focused or casual work.",
+      "Recessed LED panel lighting with warm supplementary task lamps at each workstation.",
+      "Cable management solutions and integrated storage keeping the space tidy and clutter-free."
+    ]
+  },
+  {
+    "id": "office-design-2",
+    "coverImage": "https://i.ibb.co/vxh1pm7D/images-6.jpg",
+    "gallery": ["https://i.ibb.co/vxh1pm7D/images-6.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Sleek Contemporary Corporate Office",
+    "category": "Office",
+    "description": "A sleek, corporate office interior that communicates professionalism and ambition from the moment you step inside. Clean lines, premium finishes, and a sophisticated monochromatic palette combine to create a space that is both highly functional and visually commanding.",
+    "details": [
+      "Floor-to-ceiling glazed partitions allowing natural light to penetrate deep into the floor plate.",
+      "Premium dark laminate desks with integrated wire management and modesty panels.",
+      "Bespoke reception counter in high-gloss lacquer with backlit brand logo panel.",
+      "Acoustic ceiling baffles and soft furnishing panels to control noise in busy work areas.",
+      "Statement art installations and indoor planting adding warmth to the corporate environment."
+    ]
+  },
+  {
+    "id": "office-design-3",
+    "coverImage": "https://i.ibb.co/rKQ4XNg4/images.jpg",
+    "gallery": ["https://i.ibb.co/rKQ4XNg4/images.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Private Executive Office Suite",
+    "category": "Office",
+    "description": "A commanding executive office suite designed to project authority, confidence, and refined taste. Rich materials, bespoke joinery, and curated lighting work in concert to create a workspace that is as impressive in its aesthetics as it is efficient in its functionality.",
+    "details": [
+      "Bespoke executive desk in premium veneer with integrated concealed storage and cable ports.",
+      "Floor-to-ceiling bookcase joinery in dark walnut providing both storage and visual gravitas.",
+      "Plush leather executive chair paired with coordinating visitor seating in a meeting corner.",
+      "Indirect cove lighting supplemented by a statement desk lamp for layered illumination.",
+      "Acoustic double-glazed glass partition walls ensuring complete privacy for sensitive discussions."
+    ]
+  },
+  {
+    "id": "office-design-4",
+    "coverImage": "https://i.ibb.co/gZ6xgQQQ/Office-design-interior-for-a-conference-room-by-Courtney-B.jpg",
+    "gallery": ["https://i.ibb.co/gZ6xgQQQ/Office-design-interior-for-a-conference-room-by-Courtney-B.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Designer Conference Room Interior",
+    "category": "Office",
+    "description": "A sophisticated conference room designed to make every meeting feel decisive and inspired. The space centres around a statement table, premium seating, and integrated AV technology, all wrapped in a refined material palette that sets the right tone for high-stakes conversations.",
+    "details": [
+      "Statement conference table in a premium stone or veneer finish as the room's focal piece.",
+      "Executive leather conference chairs in a coordinating colour scheme around the table.",
+      "Integrated ceiling-mounted projector and motorised screen for seamless presentations.",
+      "Acoustic wall paneling in fabric-wrapped frames to eliminate echo and improve call quality.",
+      "Dimmable lighting zones allowing the room to transition from bright brainstorming to focused presentation mode."
+    ]
+  },
+  {
+    "id": "office-design-5",
+    "coverImage": "https://i.ibb.co/KcHWmKk0/Office-interior-design-services-contemporary-results-by-Decorilla-scaled.jpg",
+    "gallery": ["https://i.ibb.co/KcHWmKk0/Office-interior-design-services-contemporary-results-by-Decorilla-scaled.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary Office Interior Design",
+    "category": "Office",
+    "description": "A beautifully executed contemporary office interior that strikes the ideal balance between creative energy and professional focus. Every design decision — from the furniture selection to the lighting strategy — has been made to support both individual deep work and energetic team collaboration.",
+    "details": [
+      "Contemporary furniture mix featuring linear desks, lounge pods, and high stools at collaboration bars.",
+      "Biophilic design elements including living plant walls and potted greenery throughout the space.",
+      "Dynamic zoning with distinct areas for focused work, casual meetings, and social interaction.",
+      "Premium flooring in a large-format tile or luxury vinyl plank for durability and aesthetics.",
+      "Warm task lighting at individual workstations contrasting with cooler ambient ceiling lighting."
+    ]
+  },
+  {
+    "id": "office-design-6",
+    "coverImage": "https://i.ibb.co/DHLwgyYh/2b41f09b-6831-4859-9c98-c964654f4ab8.jpg",
+    "gallery": ["https://i.ibb.co/DHLwgyYh/2b41f09b-6831-4859-9c98-c964654f4ab8.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Minimalist Light-Filled Office Design",
+    "category": "Office",
+    "description": "A minimalist office design that champions light, openness, and clarity. The pared-back aesthetic reduces visual noise and mental clutter, allowing the architecture itself — clean lines, generous volumes, and beautiful natural materials — to do the talking.",
+    "details": [
+      "White or light-toned walls and ceilings maximising the sense of space and airiness.",
+      "Minimal furniture in simple geometric forms with a consistent neutral colour palette.",
+      "Expansive windows or glazed walls channelling maximum natural daylight into the workspace.",
+      "Concealed storage solutions ensuring surfaces remain clean, calm, and clutter-free.",
+      "Subtle warm-toned wood accents providing textural contrast against the white canvas."
+    ]
+  },
+  {
+    "id": "office-design-7",
+    "coverImage": "https://i.ibb.co/cMRt3Fj/17.jpg",
+    "gallery": ["https://i.ibb.co/cMRt3Fj/17.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Industrial Chic Office Interior",
+    "category": "Office",
+    "description": "An industrial-chic office interior that pairs raw, honest materials with refined contemporary detailing. Exposed structural elements, reclaimed textures, and warm Edison lighting create a workspace with genuine character and an atmosphere that fuels creative thinking.",
+    "details": [
+      "Exposed concrete ceiling with conduit runs and structural beams as honest design features.",
+      "Reclaimed timber shelving and raw steel desk frames for an authentic industrial aesthetic.",
+      "Edison filament pendant cluster lights providing warm, atmospheric overhead illumination.",
+      "Polished concrete flooring with area rugs defining different work zones.",
+      "Whiteboard or chalkboard feature walls for spontaneous ideation and team brainstorming."
+    ]
+  },
+  {
+    "id": "office-design-8",
+    "coverImage": "https://i.ibb.co/0RW8zc9w/images-1.jpg",
+    "gallery": ["https://i.ibb.co/0RW8zc9w/images-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Boutique Cabin Private Office",
+    "category": "Office",
+    "description": "An intimate boutique cabin office that merges the warmth of a private study with the efficiency of a professional workspace. Rich paneling, curated accessories, and layered lighting make this a space where productivity feels both purposeful and pleasurable.",
+    "details": [
+      "Wood-paneled walls in a rich veneer creating a cocooning, study-like atmosphere.",
+      "Built-in bookshelves flanking the desk for easy access to references and display.",
+      "Warm directional desk lamp combined with cove ceiling lighting for a comfortable work environment.",
+      "Premium upholstered chair with a matching visitor sofa for informal in-office meetings.",
+      "Personalised artwork and curated accessories giving the space a distinctive identity."
+    ]
+  },
+  {
+    "id": "office-design-9",
+    "coverImage": "https://i.ibb.co/5h0Xp3qh/images-2.jpg",
+    "gallery": ["https://i.ibb.co/5h0Xp3qh/images-2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Biophilic Green Office Design",
+    "category": "Office",
+    "description": "A biophilic office design that brings the restorative power of nature directly into the workplace. Abundant greenery, natural materials, and organic forms create a workspace that measurably reduces stress, boosts mood, and improves employee wellbeing and output.",
+    "details": [
+      "Living plant wall as the office's centrepiece, providing both visual impact and air purification.",
+      "Natural materials throughout — timber, stone, rattan — echoing the outdoor environment.",
+      "Ample natural light supplemented by full-spectrum LED lighting to support circadian rhythms.",
+      "Potted plants, hanging planters, and trailing vines integrated throughout all work zones.",
+      "Earthy colour palette of greens, terracotta, sand, and warm wood tones throughout."
+    ]
+  },
+  {
+    "id": "office-design-10",
+    "coverImage": "https://i.ibb.co/rRNK1g1P/images-3.jpg",
+    "gallery": ["https://i.ibb.co/rRNK1g1P/images-3.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Premium Office Reception & Lobby",
+    "category": "Office",
+    "description": "A grand and welcoming office reception designed to make an immediate and lasting first impression. The space projects corporate excellence through its bold architectural statement, premium finishes, and meticulously choreographed visitor journey from entrance to waiting area.",
+    "details": [
+      "Sculptural reception counter in a high-gloss or stone finish with an illuminated brand logo.",
+      "Double-height or feature wall in large-format stone panels creating a dramatic backdrop.",
+      "Premium lounge seating in coordinated upholstery for a comfortable visitor waiting experience.",
+      "Statement chandelier or geometric light installation as the lobby's visual centrepiece.",
+      "Wayfinding signage with a cohesive branded identity guiding visitors through the space."
+    ]
+  },
+  {
+    "id": "office-design-11",
+    "coverImage": "https://i.ibb.co/VcbXg1kx/images-4.jpg",
+    "gallery": ["https://i.ibb.co/VcbXg1kx/images-4.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Creative Studio Office Design",
+    "category": "Office",
+    "description": "A vibrant and creatively charged studio office designed to inspire innovation and bold thinking. The space encourages free expression through its flexible layout, energetic colour accents, and curated mix of furniture that supports every working style from solo focus to group ideation.",
+    "details": [
+      "Flexible furniture on castors allowing instant reconfiguration for different team activities.",
+      "Bold colour accent walls and graphic artwork reflecting the creative culture of the organisation.",
+      "Mix of seating typologies — standing desks, lounge chairs, bar stools — for maximum versatility.",
+      "Pin boards, magnetic walls, and glass writing surfaces throughout for visual project management.",
+      "High-energy lighting zones transitioning from bright and daylight-balanced to warm and relaxed."
+    ]
+  },
+  {
+    "id": "commercial-design-1",
+    "coverImage": "https://i.ibb.co/tPxmnChz/images-2.jpg",
+    "gallery": ["https://i.ibb.co/tPxmnChz/images-2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Commercial Retail Interior",
+    "category": "Commercial",
+    "description": "A dynamic and customer-centric retail interior designed to maximise dwell time and drive purchase decisions. The layout guides visitors through a carefully curated journey, with strategic product placement, compelling focal displays, and premium lighting creating an irresistible shopping experience.",
+    "details": [
+      "Strategic floor plan with defined pathways guiding the customer through key product zones.",
+      "Premium display fixtures in lacquered finishes with integrated LED lighting for product illumination.",
+      "Bold feature wall with backlit brand graphics establishing a strong visual identity.",
+      "Warm ambient lighting layered with focused track lights to create drama and highlight merchandise.",
+      "High-quality flooring in large-format tiles or polished concrete unifying the entire space."
+    ]
+  },
+  {
+    "id": "commercial-design-2",
+    "coverImage": "https://i.ibb.co/BHVzFZqw/images-3.jpg",
+    "gallery": ["https://i.ibb.co/BHVzFZqw/images-3.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Elegant Commercial Lounge & Hospitality Space",
+    "category": "Commercial",
+    "description": "A refined hospitality and lounge interior that delivers a premium guest experience through thoughtful spatial design. Luxurious seating arrangements, bespoke lighting fixtures, and a harmonious material palette create an atmosphere of comfort and sophisticated elegance.",
+    "details": [
+      "Curated lounge seating in premium upholstery creating intimate conversation areas.",
+      "Statement pendant lighting installation as both a functional and decorative centrepiece.",
+      "Rich material palette combining marble surfaces, warm wood accents, and plush soft furnishings.",
+      "Acoustic wall treatments ensuring a comfortable noise level for guest comfort.",
+      "Bespoke bar or service counter in a high-gloss or stone finish with integrated lighting."
+    ]
+  },
+  {
+    "id": "commercial-design-3",
+    "coverImage": "https://i.ibb.co/r89Vp1b/images-4.jpg",
+    "gallery": ["https://i.ibb.co/r89Vp1b/images-4.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary Commercial Showroom Design",
+    "category": "Commercial",
+    "description": "A sleek and sophisticated commercial showroom designed to present products and services in their absolute best light. The open, flexible layout and premium finishes create a neutral yet impressive canvas that elevates every item on display.",
+    "details": [
+      "Open-plan showroom layout with flexible display systems adaptable to changing product lines.",
+      "Seamless large-format flooring creating an expansive, uninterrupted visual field.",
+      "Ceiling-mounted adjustable track lighting enabling precise product illumination from any angle.",
+      "Minimalist display pedestals and wall-mounted shelving in premium materials.",
+      "Glass partitions and feature walls separating zones while maintaining visual connectivity."
+    ]
+  },
+  {
+    "id": "commercial-design-4",
+    "coverImage": "https://i.ibb.co/ns5F1vH3/images-7.jpg",
+    "gallery": ["https://i.ibb.co/ns5F1vH3/images-7.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Upscale Commercial Dining & Café Interior",
+    "category": "Commercial",
+    "description": "A warmly designed commercial dining and café space that balances a welcoming atmosphere with efficient service flow. The interior layers natural textures, warm tones, and curated lighting to create the kind of environment where customers feel compelled to return.",
+    "details": [
+      "Mixed seating configurations including banquette booths, café tables, and counter bar seating.",
+      "Warm timber finishes, exposed brick, and hanging greenery for a cosy, inviting character.",
+      "Custom-designed service counter with integrated display cases and branded signage.",
+      "Pendant lighting clusters above seating areas creating zones of intimate warmth.",
+      "Durable, easy-clean floor and wall surfaces that maintain their aesthetic through heavy use."
+    ]
+  },
+  {
+    "id": "commercial-design-5",
+    "coverImage": "https://i.ibb.co/W47xqVH5/images.jpg",
+    "gallery": ["https://i.ibb.co/W47xqVH5/images.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Premium Commercial Wellness & Spa Centre",
+    "category": "Commercial",
+    "description": "A serene commercial wellness and spa interior designed to transport guests into a world of calm from the moment they arrive. Soft natural tones, organic materials, and carefully controlled lighting and acoustics combine to create a deeply restorative sensory environment.",
+    "details": [
+      "Soft neutral palette of ivory, stone, and warm wood tones promoting instant relaxation.",
+      "Fluted stone or timber wall paneling providing tactile warmth and visual depth.",
+      "Diffused ceiling lighting with no harsh shadows, creating a uniformly soft and calming glow.",
+      "Plush reception desk in a natural stone or warm lacquer finish with a welcoming feel.",
+      "Integrated indoor planting and water features adding organic, restorative sensory elements."
+    ]
+  },
+  {
+    "id": "commercial-design-6",
+    "coverImage": "https://i.ibb.co/vbDBS2M/Arktura-Soft-Span-24-Duff-Phelps-Kroll-Chicago-IL-WEB-1-1600x1078.jpg",
+    "gallery": ["https://i.ibb.co/vbDBS2M/Arktura-Soft-Span-24-Duff-Phelps-Kroll-Chicago-IL-WEB-1-1600x1078.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Architectural Commercial Ceiling Feature Design",
+    "category": "Commercial",
+    "description": "A bold commercial interior distinguished by its dramatic architectural ceiling feature. The sculptural overhead installation commands attention and transforms the entire spatial experience, demonstrating how a single design element can redefine a commercial space's identity and atmosphere.",
+    "details": [
+      "Custom architectural ceiling installation in a premium material creating a stunning visual canopy.",
+      "Integrated lighting within the ceiling feature for both functional and dramatic effect.",
+      "Cohesive flooring and wall treatments designed to complement and ground the ceiling statement.",
+      "Acoustic engineering embedded within the ceiling design for optimal sound performance.",
+      "Flexible open-plan layout beneath maximising usable floor space for varied commercial uses."
+    ]
+  },
+  {
+    "id": "commercial-design-7",
+    "coverImage": "https://i.ibb.co/Rk3JrYfG/Commercial-Interior-Design-Steven-G.jpg",
+    "gallery": ["https://i.ibb.co/Rk3JrYfG/Commercial-Interior-Design-Steven-G.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxury Commercial Interior by Steven G",
+    "category": "Commercial",
+    "description": "A masterfully executed luxury commercial interior that sets the gold standard for high-end design. Every element — from the hand-selected materials to the bespoke furniture and custom millwork — speaks to an unwavering commitment to excellence and an eye for timeless sophistication.",
+    "details": [
+      "Bespoke custom millwork and joinery throughout, crafted to exacting specifications.",
+      "Hand-selected premium materials including exotic stone, fine veneers, and polished metals.",
+      "Integrated art curation with statement pieces positioned as deliberate focal points.",
+      "Precisely calibrated lighting design working across multiple layers for a luminous, inviting space.",
+      "Seamless detailing and impeccable craftsmanship visible in every surface and junction."
+    ]
+  },
+  {
+    "id": "commercial-design-8",
+    "coverImage": "https://i.ibb.co/674HKf5f/commercial-interior-design-724x724.jpg",
+    "gallery": ["https://i.ibb.co/674HKf5f/commercial-interior-design-724x724.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Bold Commercial Interior Design Concept",
+    "category": "Commercial",
+    "description": "A striking commercial interior concept that proves great design can be both bold and functional. The space uses a daring design language — strong geometry, confident colour choices, and unexpected material combinations — to create an environment that is genuinely memorable and distinctive.",
+    "details": [
+      "Strong geometric forms in both the furniture selection and architectural detailing.",
+      "Confident use of colour with a defined palette carried consistently across all surfaces.",
+      "Dramatic material contrasts pairing matte and gloss, dark and light, rough and smooth.",
+      "Statement furniture pieces acting as sculptural objects within the space.",
+      "Purposeful spatial sequencing guiding visitors through a choreographed design experience."
+    ]
+  },
+  {
+    "id": "commercial-design-9",
+    "coverImage": "https://i.ibb.co/s91p3JYM/commercial-interiors.jpg",
+    "gallery": ["https://i.ibb.co/s91p3JYM/commercial-interiors.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Refined Corporate Commercial Interior",
+    "category": "Commercial",
+    "description": "A refined corporate commercial interior that projects confidence and professional credibility. The design achieves the rare balance between impressive and approachable — creating an environment that is clearly high-quality without feeling cold or intimidating to clients and visitors.",
+    "details": [
+      "Warm neutral colour palette in premium finishes conveying quality without ostentation.",
+      "Custom reception and entrance feature setting a strong first impression for all visitors.",
+      "Carefully selected artwork and décor pieces reflecting the organisation's values and culture.",
+      "High-specification furniture and fixtures in consistent, coordinated finishes throughout.",
+      "Zoned floor plan efficiently accommodating client-facing, collaborative, and private areas."
+    ]
+  },
+  {
+    "id": "commercial-design-10",
+    "coverImage": "https://i.ibb.co/r2Znv3hS/images-1.jpg",
+    "gallery": ["https://i.ibb.co/r2Znv3hS/images-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Contemporary Commercial Space Design",
+    "category": "Commercial",
+    "description": "A fresh and contemporary commercial space designed for the modern era of business. The interior embraces flexibility, natural light, and a human-centred approach to create an environment that genuinely supports the wellbeing and effectiveness of everyone who uses it.",
+    "details": [
+      "Flexible, adaptable layout supporting a variety of commercial uses and configurations.",
+      "Maximised natural light through strategic glazing and light-reflective interior finishes.",
+      "Biophilic elements including indoor planting improving air quality and occupant wellbeing.",
+      "Durable, sustainable materials selected for longevity, aesthetics, and environmental responsibility.",
+      "Technology-integrated spaces with discreet AV, connectivity, and environmental controls."
+    ]
+  },
+  {
+    "id": "living-room-design-1",
+    "coverImage": "https://i.ibb.co/WWLNq3wL/B4-U1-Dx-Mg.jpg",
+    "gallery": ["https://i.ibb.co/WWLNq3wL/B4-U1-Dx-Mg.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Warm Contemporary Living Room with Natural Accents",
+    "category": "Living Room",
+    "description": "A warm and inviting contemporary living room that uses natural textures and earthy tones to create a deeply comfortable family space. Carefully layered furnishings, organic materials, and considered lighting produce a room that feels both stylish and genuinely liveable.",
+    "details": [
+      "Plush L-shaped sectional sofa in a warm neutral fabric anchoring the seating zone.",
+      "Natural wood coffee table and side units adding organic warmth to the space.",
+      "Textured feature wall in a warm tone creating depth and a cosy atmosphere.",
+      "Layered lighting with a statement floor lamp, table lamps, and recessed ceiling lights.",
+      "Curated décor accessories — vases, books, and plants — adding personality and life."
+    ]
+  },
+  {
+    "id": "living-room-design-2",
+    "coverImage": "https://i.ibb.co/q3yJ1Mry/Baltimore-L-Shape-Light-Grey-Faux-Leather-Corner-Sofa-Landscape-1-1.jpg",
+    "gallery": ["https://i.ibb.co/q3yJ1Mry/Baltimore-L-Shape-Light-Grey-Faux-Leather-Corner-Sofa-Landscape-1-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Light Grey Faux Leather Corner Sofa Living Room",
+    "category": "Living Room",
+    "description": "A clean and sophisticated living room centred around a sweeping light grey faux leather corner sofa. The neutral colour palette and streamlined furniture silhouettes create a bright, airy space that feels both modern and effortlessly elegant.",
+    "details": [
+      "Generous L-shaped corner sofa in light grey faux leather as the room's defining piece.",
+      "Minimalist coffee table in glass or light wood complementing the sofa's clean aesthetic.",
+      "Neutral colour palette of white, grey, and warm beige creating a calm, cohesive look.",
+      "Statement ceiling light or pendant adding visual interest without overwhelming the space.",
+      "Soft area rug in a subtle texture grounding the seating arrangement."
+    ]
+  },
+  {
+    "id": "living-room-design-3",
+    "coverImage": "https://i.ibb.co/Z1N0qzy3/creating-symmetry-in-modern-living-rooms.jpg",
+    "gallery": ["https://i.ibb.co/Z1N0qzy3/creating-symmetry-in-modern-living-rooms.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Symmetrical Modern Living Room Design",
+    "category": "Living Room",
+    "description": "A masterclass in symmetry and balance, this modern living room uses a carefully mirrored layout to create a sense of order and visual calm. Matching furniture pairs, centred artwork, and a considered spatial plan produce a space of elegant, composed sophistication.",
+    "details": [
+      "Perfectly symmetrical seating arrangement with matching sofas or armchairs on either side.",
+      "Centred coffee table and TV unit creating a strong visual axis through the room.",
+      "Paired bedside-style table lamps flanking the sofa for balanced ambient lighting.",
+      "Coordinated cushion arrangement and throw placement reinforcing the symmetrical theme.",
+      "Feature wall artwork or mirror centred precisely to anchor the room's focal point."
+    ]
+  },
+  {
+    "id": "living-room-design-4",
+    "coverImage": "https://i.ibb.co/NdF53zJS/cs-2023-AT-Glade-Danielle-2023-Glade-A6-0036-Danielle.jpg",
+    "gallery": ["https://i.ibb.co/NdF53zJS/cs-2023-AT-Glade-Danielle-2023-Glade-A6-0036-Danielle.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Fresh Botanical Living Room Interior",
+    "category": "Living Room",
+    "description": "A fresh and vibrant living room interior that brings the outdoors in through abundant botanical elements and a light, nature-inspired colour palette. The space feels alive, energising, and supremely welcoming — a true sanctuary for modern family life.",
+    "details": [
+      "Lush indoor plants of varying heights creating a layered, garden-like atmosphere.",
+      "Soft sage green or warm white sofa complementing the botanical colour palette.",
+      "Natural woven rattan or seagrass accessories adding artisanal texture.",
+      "Maximised natural light with sheer curtains filtering the sunshine beautifully.",
+      "Botanical print artwork or wallpaper panel bringing pattern and colour to the space."
+    ]
+  },
+  {
+    "id": "living-room-design-5",
+    "coverImage": "https://i.ibb.co/67syVRch/images-1.jpg",
+    "gallery": ["https://i.ibb.co/67syVRch/images-1.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Luxe Dark-Toned Living Room",
+    "category": "Living Room",
+    "description": "A boldly conceived dark-toned living room that uses rich, deep colours to create an atmosphere of dramatic luxury. Far from gloomy, the space is elevated by curated lighting, lustrous textures, and carefully chosen reflective accents that bring warmth and glamour.",
+    "details": [
+      "Deep charcoal, navy, or forest green walls creating an enveloping, intimate atmosphere.",
+      "Velvet or mohair sofa in a jewel tone or complementary dark hue as the room's centrepiece.",
+      "Gold or brass accent fixtures — lamp bases, picture frames, table legs — adding warmth.",
+      "Statement chandelier or sculptural pendant providing both light and visual drama.",
+      "Layered rugs, plush cushions, and tactile throws adding depth and sensory richness."
+    ]
+  },
+  {
+    "id": "living-room-design-6",
+    "coverImage": "https://i.ibb.co/ZzmdB7Hs/images-2.jpg",
+    "gallery": ["https://i.ibb.co/ZzmdB7Hs/images-2.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Bright Scandi Minimalist Living Room",
+    "category": "Living Room",
+    "description": "A bright and beautifully restrained Scandinavian-minimalist living room where every element earns its place. The pared-back aesthetic, light wood tones, and crisp white palette create a space of extraordinary clarity and quiet elegance that is a genuine pleasure to inhabit.",
+    "details": [
+      "Light birch or oak wooden furniture in clean, Scandinavian proportions throughout.",
+      "Crisp white walls and ceiling maximising the sense of light and space.",
+      "Simple, functional sofa in natural linen or cotton in an off-white or soft grey.",
+      "Minimal clutter with a 'less is more' approach to accessories and décor.",
+      "Sheepskin throws, knit cushions, and a simple rug adding warmth and hygge."
+    ]
+  },
+  {
+    "id": "living-room-design-7",
+    "coverImage": "https://i.ibb.co/NnKMgDZs/images.jpg",
+    "gallery": ["https://i.ibb.co/NnKMgDZs/images.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Classic Elegant Living Room with Fireplace",
+    "category": "Living Room",
+    "description": "A classically elegant living room anchored by a beautiful fireplace that serves as the room's natural heart. Traditional architectural details, refined upholstery, and a warm colour palette combine to create a space of enduring charm and timeless sophistication.",
+    "details": [
+      "Statement fireplace with a detailed mantel as the undisputed focal point of the room.",
+      "Classic upholstered sofas and armchairs arranged symmetrically around the hearth.",
+      "Crown moulding, skirting boards, and ceiling rose adding classical architectural character.",
+      "Rich patterned or plain curtains in a complementary colour puddling gracefully to the floor.",
+      "Antique or vintage-inspired accessories giving the room a sense of history and soul."
+    ]
+  },
+  {
+    "id": "living-room-design-8",
+    "coverImage": "https://i.ibb.co/mVV3wtnB/lavender2-dd461d67ee8240d5bbca3e0b09e9c41c.png",
+    "gallery": ["https://i.ibb.co/mVV3wtnB/lavender2-dd461d67ee8240d5bbca3e0b09e9c41c.png"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Soft Lavender & Blush Living Room",
+    "category": "Living Room",
+    "description": "A dreamy living room drenched in soft lavender and blush tones that feels like stepping into a floral reverie. The delicate colour palette, soft textures, and feminine silhouettes create a space of romantic charm and soothing, gentle luxury.",
+    "details": [
+      "Soft lavender or lilac upholstered sofa as the room's standout centrepiece.",
+      "Blush pink and mauve accents in cushions, throws, and curtain panels.",
+      "White or pale cream walls amplifying the softness of the pastel colour story.",
+      "Delicate gold or rose gold metallic accents in lamps, picture frames, and side tables.",
+      "Fresh or dried floral arrangements reinforcing the room's soft, romantic character."
+    ]
+  },
+  {
+    "id": "living-room-design-9",
+    "coverImage": "https://i.ibb.co/GfqBc0zr/southernliving-livingroomlayoutmistakes-harperharris-Laurey-Glenn-065b1e66d50b4608bf3e74a1f0b0f452.jpg",
+    "gallery": ["https://i.ibb.co/GfqBc0zr/southernliving-livingroomlayoutmistakes-harperharris-Laurey-Glenn-065b1e66d50b4608bf3e74a1f0b0f452.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Well-Planned Living Room Layout Design",
+    "category": "Living Room",
+    "description": "A thoughtfully planned living room layout that demonstrates how intelligent spatial design can transform a room's functionality and flow. The furniture arrangement creates clearly defined zones for conversation, relaxation, and entertainment without sacrificing the space's sense of openness.",
+    "details": [
+      "Furniture arranged to create a clear conversation zone with every seat facing the focal point.",
+      "Sufficient circulation space maintained around all furniture for comfortable daily movement.",
+      "Balanced visual weight achieved through considered placement of large and small pieces.",
+      "Defined zones for different activities — reading, lounging, and socialising — within one room.",
+      "Cohesive colour palette tying together diverse furniture pieces into a unified whole."
+    ]
+  },
+  {
+    "id": "living-room-design-10",
+    "coverImage": "https://i.ibb.co/dwR0whJR/image.jpg",
+    "gallery": ["https://i.ibb.co/dwR0whJR/image.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Modern Open-Plan Living & Dining Space",
+    "category": "Living Room",
+    "description": "A seamlessly designed open-plan living and dining space that exemplifies contemporary family living at its finest. The thoughtful integration of both zones creates a fluid, sociable environment perfect for entertaining guests or simply enjoying everyday family moments.",
+    "details": [
+      "Fluid open-plan layout connecting the living and dining areas in one cohesive space.",
+      "Consistent flooring material running across both zones to unify the open-plan flow.",
+      "Distinct furniture groupings defining each area without physical barriers.",
+      "Shared lighting design linking the spaces — pendant over dining table, floor lamp in living zone.",
+      "Statement feature element — a media wall or fireplace — visible and enjoyed from both areas."
+    ]
+  },
+  {
+    "id": "living-room-design-11",
+    "coverImage": "https://i.ibb.co/PzwZx2gH/8-Wedgewood-Mews-1-min-scaled-e1727868409423-1024x630.jpg",
+    "gallery": ["https://i.ibb.co/PzwZx2gH/8-Wedgewood-Mews-1-min-scaled-e1727868409423-1024x630.jpg"],
+    "beforeAfter": null,
+    "year": 2025,
+    "title": "Premium Residential Living Room Showcase",
+    "category": "Living Room",
+    "description": "A premium residential living room that showcases the very best of contemporary interior design. From the investment-quality furniture to the bespoke architectural detailing, every aspect of this space has been designed to deliver an exceptional living experience.",
+    "details": [
+      "Premium bespoke sofa and armchairs upholstered in high-quality fabric or leather.",
+      "Architectural detailing — paneled walls, coffered ceiling, or built-in joinery — adding character.",
+      "Curated artwork collection displayed with intention and professional lighting.",
+      "Investment-quality rug anchoring the seating arrangement with pattern and texture.",
+      "Bespoke window treatments in a premium fabric complementing the overall design vision."
     ]
   }
 ];
